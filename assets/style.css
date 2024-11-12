@@ -34,7 +34,7 @@ body {
       height: 20rem;
       flex-grow: 1;
       flex-basis: calc(33% - 6rem);
-      width: 50px;
+      width: 65px;
 }
 .cartao__conteudo {
       text-align: center;
